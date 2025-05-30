@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Beach tennis',
+    'Quando começou o beach tennis',
+    'O beach tennis foi criado em meados de 1987 na província de Ravennana, na Itália'
 )
 
 criaCartao(
