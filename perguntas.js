@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Fundamentos',
+    'Quais são os fundamentos do futevôlei?',
+    'Saque, recepção, passe, ataque e defesa'
 )
 
 criaCartao(
