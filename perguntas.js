@@ -5,19 +5,21 @@ criaCartao(
 )
 
 criaCartao(
-    'Beach tennis',
-    'Quando começou o beach tennis',
-    'O beach tennis foi criado em meados de 1987 na província de Ravennana, na Itália'
+    'Regras do futevôlei',
+    'Cite 3 regras do futevôlei',
+    '1) Cada equipe pode tocar na bola no máximo três vezes antes de passá-la para o lado oposto da quadra.'
+    '2) É proibido usar as mãos ou braços para tocar na bola.'
+    '3) Os sets são de 18 pontos, com a necessidade de uma diferença de 2 pontos para fechar o jogo.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Surgimento do futevôlei',
+    'Quando surgiu o futevôlei?',
+    'O futevôlei surgiu no Rio de Janeiro, mais precisamente nas praias de Copacabana'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Benefícios do futevôlei',
+    'Quais os benefícios do futevôlei?',
+    'Melhora a saúde e trabalha vários grupos musculares'
 )
